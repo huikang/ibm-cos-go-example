@@ -9,8 +9,8 @@
  The credential file by default is stored in the file ``~/.aws/credentials``. The minimum content in the file should include ``aws_access_key_id`` and ``aws_secret_access_key``, e.g.,
 ```
 [default]
-aws_access_key_id = orn46373ugd6s9
-aws_secret_access_key = EprhiehdugugeuhdsgduiwheudrlzfJFrcubg83b
+aws_access_key_id = orn46373ugd656
+aws_secret_access_key = EprhiehdugugeuhdsgduiwheudrlzabJFrcubg83b
 ```
 
  - Compile and run the program
